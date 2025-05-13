@@ -50,7 +50,10 @@
 ‭ bloqueos‬‭ creativos‬‭ y‬‭ proporcionando‬‭ una‬‭ fuente‬‭ de‬‭ inspiración‬‭ que‬‭ potencie‬‭ la‬‭ innovación‬‭ de‬
 ‭ forma‬‭ dinámica‬‭ y‬‭ al‬‭ momento.‬‭ La‬‭ dependencia‬‭ en‬‭ agentes‬‭ externos‬‭ se‬‭ podría‬‭ reducir‬‭ permitiendo‬
 ‭ también una reducción de costes. Así, el proceso se vería modificado de la siguiente manera:‬
+
 ‭
 ‭<img width="913" alt="Screenshot 2025-05-13 at 18 13 28" src="https://github.com/user-attachments/assets/9a4b7021-9a8f-4fdd-87b7-d7f8b52d152e" />
+
+
 
 ‭
