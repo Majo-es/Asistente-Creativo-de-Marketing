@@ -1,6 +1,9 @@
-# Caso de uso de Deep Learning en una‬ empresa‬
+# Use Case: the use of Deep Learning in a company/ Caso de uso de Deep Learning en una‬ empresa‬
 
 @Leilani A., Lucía C., Maria Jose E. y Maryam‬‭ F.
+
+🇬🇧 version: 
+The project is a marketing creative assistant that leverages deep learning techniques (`Large Language Models (LLMs)`, `Vision Transformers`, and `semantic search`) to generate advertising ideas. It allows users to input product information, target audience, campaign goals, preferred social media platforms, and color schemes. The assistant then generates slogans, suggests ideal social media platforms with optimal posting times, creates relevant hashtags, and produces a promotional image. This tool solves business problems by streamlining and accelerating the advertising campaign development process, helping marketing teams, designers, and entrepreneurs generate ideas quickly, overcome creative blocks, and reduce reliance on external agencies, ultimately saving time and costs. It also aids in rapidly exploring diverse ideas and focusing on the most favorable options.
 ‭
 ## Parte I‬. 
 ‭ El‬‭ objetivo‬‭ de‬‭ este‬‭ proyecto‬‭ es‬‭ crear‬‭ un‬‭ asistente‬‭ creativo‬‭ de‬‭ marketing‬‭ con‬‭ las‬‭ técnicas‬
@@ -59,11 +62,7 @@
 https://github.com/user-attachments/assets/911c12b4-d078-4d3b-bb03-ecb7a7f0b228
 
 
-
-🇬🇧 version: 
-The project is a marketing creative assistant that leverages deep learning techniques (`Large Language Models (LLMs)`, `Vision Transformers`, and `semantic search`) to generate advertising ideas. It allows users to input product information, target audience, campaign goals, preferred social media platforms, and color schemes. The assistant then generates slogans, suggests ideal social media platforms with optimal posting times, creates relevant hashtags, and produces a promotional image. This tool solves business problems by streamlining and accelerating the advertising campaign development process, helping marketing teams, designers, and entrepreneurs generate ideas quickly, overcome creative blocks, and reduce reliance on external agencies, ultimately saving time and costs. It also aids in rapidly exploring diverse ideas and focusing on the most favorable options.
-
-Sequence diagram illustrating the architecture:
+Sequence diagram illustrating the architecture/ Diagrama de Secuencia:
 
 
 <img width="624" alt="Model" src="https://github.com/user-attachments/assets/26d9928d-a2b9-4520-9d74-888e9ac36270" />
