@@ -58,6 +58,11 @@
 
 https://github.com/user-attachments/assets/911c12b4-d078-4d3b-bb03-ecb7a7f0b228
 
+
+
+🇬🇧 version: 
+The project is a marketing creative assistant that leverages deep learning techniques (`Large Language Models (LLMs)`, `Vision Transformers`, and `semantic search`) to generate advertising ideas. It allows users to input product information, target audience, campaign goals, preferred social media platforms, and color schemes. The assistant then generates slogans, suggests ideal social media platforms with optimal posting times, creates relevant hashtags, and produces a promotional image. This tool solves business problems by streamlining and accelerating the advertising campaign development process, helping marketing teams, designers, and entrepreneurs generate ideas quickly, overcome creative blocks, and reduce reliance on external agencies, ultimately saving time and costs. It also aids in rapidly exploring diverse ideas and focusing on the most favorable options.
+
 Sequence diagram illustrating the architecture:
 
 
