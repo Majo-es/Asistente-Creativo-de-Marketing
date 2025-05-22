@@ -58,7 +58,10 @@
 
 https://github.com/user-attachments/assets/911c12b4-d078-4d3b-bb03-ecb7a7f0b228
 
+Sequence diagram illustrating the architecture:
 
+
+<img width="624" alt="Model" src="https://github.com/user-attachments/assets/26d9928d-a2b9-4520-9d74-888e9ac36270" />
 
 
 
